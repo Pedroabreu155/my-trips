@@ -1,6 +1,6 @@
 {
-  "name": "Nextjs Boilerplate - Typescrip and Styled Components",
-  "short_name": "Nextjs Boilerplate",
+  "name": "My Trips",
+  "short_name": "My Trips",
   "icons": [
     {
       "src": "/images/favicon.ico",
@@ -10,7 +10,7 @@
   ],
   "theme_color": "#FFFFFF",
   "background_color": "#FFFFFF",
+  "description": "A project to show spots that I've visited and is my favorite ones.",
   "start_url": "/",
-  "display": "standalone",
-  "orientation": "portrait"
+  "display": "fullscreen"
 }
